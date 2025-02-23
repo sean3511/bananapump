@@ -346,12 +346,12 @@
     .social-icons {
         width: 100%;
         display: flex;
-        justify-content:flex-end;
-        gap: 20px;
+        justify-content:center;
+        gap: 28px;
       }
       
     .header .wrapper {
-      gap: 20px;
+      gap: 0px;
       height: 100%;
     }
     .header{
@@ -368,7 +368,9 @@
       display: block;
       padding: 12px;
     }
-  
+    .nav-logo{
+      display: none;
+    }
     .hero {
       padding: 40px 0;
       min-height: auto;
