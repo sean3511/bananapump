@@ -64,7 +64,7 @@
     width: 180px;
     display: flex;
     justify-content: flex-end;
-    gap: 20px;
+    gap: 16px;
   }
   .social-icons i{
     color: white;
@@ -347,7 +347,7 @@
         width: 100%;
         display: flex;
         justify-content:center;
-        gap: 28px;
+        gap: 16px;
       }
       
     .header .wrapper {
